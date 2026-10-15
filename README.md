@@ -1,6 +1,6 @@
 # AI Heart Disease Classification
 
-A small TensorFlow/Keras project that trains a binary classifier on the Cleveland heart-disease dataset.
+A TensorFlow/Keras project that trains a binary classifier on the Cleveland heart-disease dataset.
 
 ## Project files
 
